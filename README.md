@@ -1,5 +1,5 @@
 
-![Logo](https://github.com/dasdebanna/CineGenius-Revolutionizing-Movie-Recommendations/blob/main/images/movie-recommendation.png)
+![Logo](https://github.com/dasdebanna/Stock-Price-Prediction-with-Random-Forest---Live-Yahoo-Data/blob/main/images/banner.png)
 
 # Stock Price Prediction with Random Forest & Live Yahoo Data
 
@@ -53,7 +53,7 @@ fig = go.Figure(data=[go.Candlestick(x=df['date'],
 fig.update_layout(title='Stock Price Chart DLF.NS', yaxis_title='Price (₹)', xaxis_rangeslider_visible=False)
 fig.show()
 ```
-![App Screenshot](https://github.com/dasdebanna/CineGenius-Revolutionizing-Movie-Recommendations/blob/main/images/screenshot-1.png)
+![App Screenshot](https://github.com/dasdebanna/Stock-Price-Prediction-with-Random-Forest---Live-Yahoo-Data/blob/main/images/newplot.png)
 
 The chart provides a visual representation of the stock's open, high, low, and close prices over time.
 ## Model Building
